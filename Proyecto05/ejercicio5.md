@@ -97,15 +97,14 @@ Así que:
 - Crea un repositorio público  en tu cuenta de Github, pon aquí el enlace
 al mismo:
 
-__________________________________________________________
+___________________https://github.com/Enzo2602/Devops-ejercices101.git _______________________________________
 
 - Enlace tu local a ese servidor, pon aquí el comando:
 
-__________________________________________________________
+_________________________git remote add origin  git@github.com:Enzo2602/Devops-ejercices101.git_________________________________
 
 - Sube el contenido al servidor, pon aquí el comando:
 
-__________________________________________________________
-
+__________________________Git push -u  origin main
 
 
